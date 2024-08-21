@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    border-style: border-box
+
+}
+
+#top-header{
+    text-align: center;
+    font-size: 0.7rem;
+    padding: 20px;
+    color: gray;
+}
+
+#nav-bar{
+    display: flex;
+    flex-direction: row-reverse ;
+    margin-bottom: 1rem;
+    padding: 0px 58px;
+    
+}
+
+
+.menu-list{
+    display:inline;
+    text-decoration: none;
+    
+}
+
+.menu-list a{
+    text-decoration: none;
+    padding: 20px 10px;
+    color: gray;
+    font-weight: 800;
+}
+
+.menu-list a:hover{
+    color: red;
+}
+
+#contact{
+    background-color: greenyellow;
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: white;
+}
+#E{
+    background-color: greenyellow;
+    color: white;
+}
+
+#contact a:hover{
+    color: white;
+}
+
