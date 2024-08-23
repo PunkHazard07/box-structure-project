@@ -5,6 +5,10 @@
 
 }
 
+body {
+    line-height: 1.5rem;
+}
+
 #top-header{
     text-align: center;
     font-size: 0.7rem;
@@ -38,7 +42,7 @@
     color: red;
 }
 
-#contact{
+#log{
     background-color: greenyellow;
     padding: 10px 10px;
     border-radius: 10px;
@@ -53,3 +57,117 @@
     color: white;
 }
 
+.hills{
+padding: 0 30px;
+margin-bottom: 20px;
+}
+
+.flex{
+    display: flex
+}
+
+.adjustment{
+     margin: 20px;
+     padding:auto 30px;
+     background-color: white;
+    
+}
+
+.logo{
+    padding-left: 120px;
+}
+
+.des{
+    padding: 10px 20px;
+}
+
+.center{
+    padding: 10px 10px;
+}
+
+#cnt{
+    display: flex;
+    
+}
+
+.station{
+    margin:  20px;
+    padding: 10px;
+    background-color: rgb(218, 218, 218);
+}
+
+.details{
+    padding: 10px 10px;
+    float: right;
+}
+.bridge{
+    padding: 10px 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.cup{
+    width: auto;
+    height: 510px;
+}
+
+#product{
+    display: flex;
+    margin: auto 20px;
+    
+    
+}
+
+.product{
+    display: flex;
+
+}
+
+#pro{
+    margin: 0 30px;
+    align-items: flex-start;
+    
+}
+
+.pro{
+    padding: 30px ;
+    margin: 30px ;
+    background-color: rgb(226, 224, 224);
+}
+
+#call{
+    display: flex;
+    margin: 10px auto
+}
+
+#form{
+    padding: 0 40px;
+    margin: 0 auto;
+}
+    
+.input{
+    display: flex;
+    
+}
+
+.email{
+    margin: 0 30px;
+    width: 170px;
+    padding: 6px 20px;
+}
+
+.name{
+    width: 170px;
+    padding: 6px 20px;
+}
+
+.textarea{
+    width: 456px;
+    height: 120px;
+    margin: 15px auto;
+}
+
+#foot{
+    text-align: center;
+    font-size: smaller;
+}
